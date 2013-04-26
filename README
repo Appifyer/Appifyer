@@ -1,0 +1,15 @@
+Appifyer
+==========
+
+Appifyer is an application launcher.
+
+Add your own apps or get some from http://www.appifyer.com, and set them up to launch automatically, via the Appifyer menu, or by using a hotkey.
+
+Appifyer is intended to make it as easy as possible to launch small on-demand applications as well as other applications that you use daily.
+
+Note: User settings and image resources are saved in %AppData%\Appifyer.
+
+Default hotkeys
+--------------------
+* Windows+Space brings forth the app menu
+* Middleclick the start button (or leftclick the tray icon) to bring forth the app menu
